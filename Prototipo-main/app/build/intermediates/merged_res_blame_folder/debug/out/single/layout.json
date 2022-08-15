@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\cadastro2.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastro2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\menu1.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\sequencia2.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\sequencia2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\cadastro.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\menu2b.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu2b.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\menu2c.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu2c.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\cadastroseqrncia.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastroseqrncia.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\cadastro3.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastro3.xml"
+    },
+    {
+        "merged": "com.example.prottipo.app-mergeDebugResources-25:/layout/sequencia2.xml",
+        "source": "com.example.prottipo.app-main-28:/layout/sequencia2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\cadastrojob.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastrojob.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\cadastrousuario.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastrousuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\cadastrocliente.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastrocliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\cadastrosequrncia.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastrosequrncia.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\sequencia.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\sequencia.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\menu3.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu3.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\senharetrieve.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\senharetrieve.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\menu2.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-mergeDebugResources-25:\\layout\\photo.xml",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\photo.xml"
+    }
+]

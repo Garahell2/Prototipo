@@ -1,0 +1,132 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.prottipo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:5:5-6:35
+12        android:name="android.hardware.camera"
+12-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:5:19-57
+13        android:required="true" />
+13-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:6:9-32
+14
+15    <application
+15-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:8:5-43:19
+16        android:allowBackup="true"
+16-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:9:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.7.0] C:\Users\mathe\.gradle\caches\transforms-3\d409417959c78fbf29d76ceae9660126\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+18        android:dataExtractionRules="@xml/data_extraction_rules"
+18-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:10:9-65
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:fullBackupContent="@xml/backup_rules"
+21-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:11:9-54
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:12:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:13:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:14:9-54
+25        android:supportsRtl="true"
+25-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:15:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.Protótipo" >
+27-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:16:9-47
+28        <activity
+28-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:18:9-26:20
+29            android:name="com.example.prottipo.MainActivity"
+29-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:19:13-41
+30            android:exported="true" >
+30-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:20:13-36
+31            <intent-filter>
+31-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:22:17-69
+32-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:24:17-77
+34-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity android:name="com.example.prottipo.SecondActivity" />
+37-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:27:9-61
+37-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:27:19-49
+38        <activity android:name="com.example.prottipo.ThirdActivity" />
+38-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:28:9-60
+38-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:28:19-48
+39        <activity android:name="com.example.prottipo.Thirdactivity2" />
+39-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:29:9-61
+39-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:29:19-49
+40        <activity android:name="com.example.prottipo.Thirdactivity3" />
+40-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:30:9-61
+40-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:30:19-49
+41        <activity android:name="com.example.prottipo.FourthActivity" />
+41-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:31:9-61
+41-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:31:19-49
+42        <activity android:name="com.example.prottipo.FifthActivity" />
+42-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:32:9-60
+42-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:32:19-48
+43        <activity android:name="com.example.prottipo.SixthActivity" />
+43-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:33:9-60
+43-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:33:19-48
+44        <activity android:name="com.example.prottipo.SeventhActivity" />
+44-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:34:9-62
+44-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:34:19-50
+45        <activity android:name="com.example.prottipo.SeventhActivity2" />
+45-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:35:9-63
+45-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:35:19-51
+46        <activity android:name="com.example.prottipo.Sequence" />
+46-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:36:9-55
+46-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:36:19-43
+47        <activity android:name="com.example.prottipo.Photo" />
+47-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:37:9-52
+47-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:37:19-40
+48        <activity android:name="com.example.prottipo.Cadastro" />
+48-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:38:9-55
+48-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:38:19-43
+49        <activity android:name="com.example.prottipo.Cadastro2" />
+49-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:39:9-56
+49-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:39:19-44
+50        <activity android:name="com.example.prottipo.Cadastro3" />
+50-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:40:9-56
+50-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:40:19-44
+51        <activity android:name="com.example.prottipo.registrar" />
+51-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:41:9-56
+51-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:41:19-44
+52        <activity android:name="com.example.prottipo.retrieve" />
+52-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:42:9-55
+52-->C:\Users\mathe\AndroidStudioProjects\Prottipo\app\src\main\AndroidManifest.xml:42:19-43
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mathe\.gradle\caches\transforms-3\734f58e2c86c6d5146967ec2afef1295\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mathe\.gradle\caches\transforms-3\734f58e2c86c6d5146967ec2afef1295\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+56            android:authorities="com.example.prottipo.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mathe\.gradle\caches\transforms-3\734f58e2c86c6d5146967ec2afef1295\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mathe\.gradle\caches\transforms-3\734f58e2c86c6d5146967ec2afef1295\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mathe\.gradle\caches\transforms-3\734f58e2c86c6d5146967ec2afef1295\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mathe\.gradle\caches\transforms-3\734f58e2c86c6d5146967ec2afef1295\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mathe\.gradle\caches\transforms-3\734f58e2c86c6d5146967ec2afef1295\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mathe\.gradle\caches\transforms-3\6678309a7758632c841a28fcb65493d4\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mathe\.gradle\caches\transforms-3\6678309a7758632c841a28fcb65493d4\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mathe\.gradle\caches\transforms-3\6678309a7758632c841a28fcb65493d4\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.prottipo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="32" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.Protótipo" >
+        <activity
+            android:name="com.example.prottipo.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.prottipo.SecondActivity" />
+        <activity android:name="com.example.prottipo.ThirdActivity" />
+        <activity android:name="com.example.prottipo.Thirdactivity2" />
+        <activity android:name="com.example.prottipo.Thirdactivity3" />
+        <activity android:name="com.example.prottipo.FourthActivity" />
+        <activity android:name="com.example.prottipo.FifthActivity" />
+        <activity android:name="com.example.prottipo.SixthActivity" />
+        <activity android:name="com.example.prottipo.SeventhActivity" />
+        <activity android:name="com.example.prottipo.SeventhActivity2" />
+        <activity android:name="com.example.prottipo.Sequence" />
+        <activity android:name="com.example.prottipo.Photo" />
+        <activity android:name="com.example.prottipo.Cadastro" />
+        <activity android:name="com.example.prottipo.Cadastro2" />
+        <activity android:name="com.example.prottipo.Cadastro3" />
+        <activity android:name="com.example.prottipo.registrar" />
+        <activity android:name="com.example.prottipo.retrieve" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.prottipo.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

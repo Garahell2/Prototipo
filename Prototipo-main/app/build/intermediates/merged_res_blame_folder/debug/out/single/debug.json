@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_cadastrojob.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastrojob.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_sequencia2.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\sequencia2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_cadastro3.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastro3.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_cadastrousuario.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastrousuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable_b.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable\\b.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable_zzx.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable\\zzx.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-xxhdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-xxhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_menu1.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.prottipo.app-merged_res-26:/layout_sequencia2.xml.flat",
+        "source": "com.example.prottipo.app-main-28:/layout/sequencia2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_senharetrieve.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\senharetrieve.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_sequencia.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\sequencia.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_menu3.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu3.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_menu2c.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu2c.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_photo.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_cadastrocliente.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastrocliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-xxxhdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-xxxhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_cadastroseqrncia.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastroseqrncia.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_cadastro.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable_azx.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable\\azx.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-hdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-hdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_menu2b.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu2b.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-xhdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-xhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-xxxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_cadastro2.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastro2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_cadastrosequrncia.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\cadastrosequrncia.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-mdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-mdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\layout_menu2.xml.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\layout\\menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-merged_res-26:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\mathe\\.gradle\\daemon\\7.3.3\\com.example.prottipo.app-main-28:\\drawable-mdpi\\ic_action_name.png"
+    }
+]
