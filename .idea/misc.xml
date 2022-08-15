@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/drawable/ZXZ.xml" value="0.1" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/drawable/azx.xml" value="0.1" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/drawable/b.xml" value="0.1" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/cadastro.xml" value="0.5" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/cadastro2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/cadastro3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/cadastrocliente.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/cadastrojob.xml" value="0.3530591775325978" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/cadastroseqrncia.xml" value="0.25" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/cadastrosequrncia.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/cadastrousuario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/menu1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/menu2.xml" value="0.365625" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/menu2b.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/menu2c.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/menu3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/photo.xml" value="0.3074074074074074" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/senharetrieve.xml" value="0.365625" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/sequencia.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/layout/sequencia2.xml" value="0.25" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/mipmap-anydpi-v26/IMGGG.xml" value="0.1" />
+        <entry key="..\:/Users/mathe/AndroidStudioProjects/Prottipo/app/src/main/res/mipmap-anydpi-v26/IMGGG_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

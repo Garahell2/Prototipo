@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Janus</string>
+
+    <string-array name="fases">
+        <item>1 fase</item>
+        <item>2 fases</item>
+        <item>3 fases</item>
+        <item>4 fases</item>
+    </string-array>
+    <string-array name="bolts">
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+        <item>36</item>
+    </string-array>
+
+</resources>
